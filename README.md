@@ -2,4 +2,4 @@
 
 This is the website I made for myself in React interpreted by Babel.
 
-This project uses particles.js (https://vincentgarreau.com/particles.js/).
+This project uses particles.js (https://vincentgarreau.com/particles.js/) and Bootstrap (https://getbootstrap.com/).
